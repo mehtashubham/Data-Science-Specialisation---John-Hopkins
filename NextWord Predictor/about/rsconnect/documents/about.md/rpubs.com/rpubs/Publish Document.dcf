@@ -1,0 +1,8 @@
+name: Publish Document
+title:
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/249087/d3e379ebdbda4227871115477588d767
+bundleId: https://api.rpubs.com/api/v1/document/249087/d3e379ebdbda4227871115477588d767
+url: http://rpubs.com/mehtashubham/249087
+when: 1486792441.26186
