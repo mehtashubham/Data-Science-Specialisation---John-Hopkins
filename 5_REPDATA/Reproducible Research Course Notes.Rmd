@@ -1,6 +1,6 @@
 ---
 title: "Reproducible Research Course Notes"
-author: "Xing Su"
+author: "Shubham Mehta"
 output:
   pdf_document:
     toc: yes
