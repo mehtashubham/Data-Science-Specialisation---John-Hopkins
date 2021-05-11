@@ -1,6 +1,6 @@
 ---
 title: "R Programming Course Notes"
-author: "Xing Su"
+author: "Shubham Mehta"
 output:
   html_document:
     highlight: pygments
